@@ -1,0 +1,10 @@
+NE555P or equivalent - 555 timer
+1725656 or equivalent - DCIN, supplyIN, PUMP
+1725669 or equivalent - J5 (comes up as J1)
+RES400 or equivalent - R1 through R7
+CAP400 or equivalent - C4 (comes up as C1)
+2N3904BU or equivalent - BC547 (comes up as Q1)
+JJM1C or equivalent - K1.1 and K1.2
+DIODE or equivalent - D6 (comes up as D1)
+LED or equivalent - LED1 (comes up as D2)
+
